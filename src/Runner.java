@@ -32,7 +32,10 @@ import java.util.*;
 public class Runner {
     public static void main(String[] args) {
 
-        Text currentText = new Text("C:\\comptext.txt");
+
+//        Text currentText = new Text("D:/IdeaProj/TaskTwo/src/resources/comptext.txt");
+          Text currentText = new Text("src/resources/comptext.txt");
+
 
         try{
             currentText.createtext();
