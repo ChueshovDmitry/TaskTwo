@@ -34,7 +34,7 @@ public class Runner {
 //            String path = "src/resources/comptext.txt";
 //        Text currentText = new Text("D:/IdeaProj/TaskTwo/src/resources/comptext.txt");
           Text currentText = new Text("src/resources/comptext.txt");
-
+        System.out.println("hello");
 
         try{
             currentText.createtext();
