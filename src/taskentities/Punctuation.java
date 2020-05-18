@@ -28,7 +28,7 @@ public enum Punctuation {
     COLON(':'),
     SEMICOLON(';'),
     LESSTHAN('<'),
-//    EQUAL('='),
+    EQUAL('='),
     GREATERTHAN('>'),
     LSQUAREBRACKETS('['),
     RSQUAREBRACKETS(']'),
