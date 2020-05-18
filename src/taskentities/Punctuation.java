@@ -6,6 +6,7 @@ package taskentities;
  */
 
 public enum Punctuation {
+
     EXCLAMATION('!'),
     DOT('.'),
     QUESTION('?'),
@@ -27,7 +28,7 @@ public enum Punctuation {
     COLON(':'),
     SEMICOLON(';'),
     LESSTHAN('<'),
-    EQUAL('='),
+//    EQUAL('='),
     GREATERTHAN('>'),
     LSQUAREBRACKETS('['),
     RSQUAREBRACKETS(']'),
