@@ -31,9 +31,9 @@ import java.util.*;
 
 public class Runner {
     public static void main(String[] args) {
-            String path = "src/resources/comptext.txt";
+//            String path = "src/resources/comptext.txt";
 //        Text currentText = new Text("D:/IdeaProj/TaskTwo/src/resources/comptext.txt");
-          Text currentText = new Text(path);
+          Text currentText = new Text("src/resources/comptext.txt");
 
 
         try{
