@@ -8,7 +8,7 @@ package taskentities;
 public enum Punctuation {
 
     EXCLAMATION('!'),
-    DOT('.'),
+   // DOT('.'),
     QUESTION('?'),
     TWO_DOT('‥'),
     HORIZONTAL_ELLIPSIS('…'),
@@ -28,7 +28,7 @@ public enum Punctuation {
     COLON(':'),
     SEMICOLON(';'),
     LESSTHAN('<'),
-//    EQUAL('='),
+    EQUAL('='),
     GREATERTHAN('>'),
     LSQUAREBRACKETS('['),
     RSQUAREBRACKETS(']'),
